@@ -1,0 +1,19 @@
+apiVersion: apps/v1beta2
+kind: Deployment
+metadata:
+  name: netcoreapi-deployment
+spec:
+  selector:
+    matchLabels:
+      app: netcoreapi
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: netcoreapi
+    spec:
+      containers:
+      - name: netcoreapi
+        image: thing12/netcoreapi:v001
+        ports:
+        - containerPort: 80

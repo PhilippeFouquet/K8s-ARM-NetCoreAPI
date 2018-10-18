@@ -1,0 +1,10 @@
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\bin\Debug\netcoreapp2.0\netcoreapi.deps.json
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\bin\Debug\netcoreapp2.0\netcoreapi.runtimeconfig.json
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\bin\Debug\netcoreapp2.0\netcoreapi.runtimeconfig.dev.json
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\bin\Debug\netcoreapp2.0\netcoreapi.dll
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\bin\Debug\netcoreapp2.0\netcoreapi.pdb
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\obj\Debug\netcoreapp2.0\netcoreapi.csproj.CoreCompileInputs.cache
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\obj\Debug\netcoreapp2.0\netcoreapi.AssemblyInfoInputs.cache
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\obj\Debug\netcoreapp2.0\netcoreapi.AssemblyInfo.cs
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\obj\Debug\netcoreapp2.0\netcoreapi.dll
+C:\Users\phili\trunk\Projects\T12-Cluster\code\netcoreapi\obj\Debug\netcoreapp2.0\netcoreapi.pdb
